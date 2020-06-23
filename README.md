@@ -1,6 +1,10 @@
 iTunes Artwork Finder
 =====================
 
+Update by me:
+
+I added an index HTML page and changed the api url. Now it should work by just running `php -S localhost 8888`.
+
 This is the JavaScript and PHP code that powers the iTunes Artwork Finder available at [https://bendodson.com/projects/itunes-artwork-finder/](https://bendodson.com/projects/itunes-artwork-finder/)
 
 To use on your own site, simply upload both the JavaScript and PHP files and then initialise the script with something like:

@@ -1,4 +1,4 @@
-var pathToAPI = 'https://example/com/api.php'; // replace with your path to the api.php file
+var pathToAPI = '/api.php'; // replace with your path to the api.php file
 
 var countries = {
     ae: 'United Arab Emirates',
