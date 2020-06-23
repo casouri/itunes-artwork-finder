@@ -3,7 +3,7 @@ iTunes Artwork Finder
 
 Update by me:
 
-I added an index HTML page and changed the api url. Now it should work by just running `php -S localhost 8888`.
+I added an index HTML page and changed the api url. Now it should work by just running `php -S localhost 8888` and connect. Or just run `./run.sh`.
 
 This is the JavaScript and PHP code that powers the iTunes Artwork Finder available at [https://bendodson.com/projects/itunes-artwork-finder/](https://bendodson.com/projects/itunes-artwork-finder/)
 
